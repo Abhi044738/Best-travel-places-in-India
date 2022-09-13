@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-width: 3px;
+  border-radius: 0.5rem;
+  border-color: #ef4444;
+}
+
+.place-selection {
+  margin: auto;
+  cursor: pointer;
+  font-size: 250%;
+}
+
+.main-continer {
+  margin: 2rem;
+  border: solid;
+  border-width: 4px;
+  border-radius: 1rem;
+  border-color: #ef4444;
+}
+
+.info {
+  font-size: 120%;
+}
+
+.place-type {
+  margin: auto;
+  font-size: 200%;
+  background-color: rgb(194, 193, 193);
+}
+
+ul {
+  padding: 1rem;
+}
+
+li {
+  list-style: none;
+}
