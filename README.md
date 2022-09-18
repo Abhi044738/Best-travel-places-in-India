@@ -1,2 +1,2 @@
 # best-travel-places-in-India
-Created with CodeSandbox
+A web based app created with CodeSandbox using react tells about the best travel places according to me in India. 
